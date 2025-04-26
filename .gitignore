@@ -1,0 +1,12 @@
+# Ignore virtual environment
+env/
+
+# Ignore logs
+logs/
+
+# Ignore Jupyter autosaves
+*.ipynb_checkpoints/
+
+# Ignore OS files
+.DS_Store
+
